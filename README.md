@@ -182,6 +182,12 @@ Macro for the maximum [safe][safe-integers] [Fibonacci number][fibonacci-number]
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float64/max-safe-fibonacci`][@stdlib/constants/float64/max-safe-fibonacci]</span><span class="delimiter">: </span><span class="description">maximum safe Fibonacci number when stored in double-precision floating-point format.</span>
+
 </section>
 
 <!-- /.related -->
@@ -212,7 +218,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -265,6 +271,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
 
 <!-- <related-links> -->
+
+[@stdlib/constants/float64/max-safe-fibonacci]: https://github.com/stdlib-js/constants-float64-max-safe-fibonacci
 
 <!-- </related-links> -->
 
