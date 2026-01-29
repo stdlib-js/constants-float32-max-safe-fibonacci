@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT32_MAX_SAFE_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-fibonacci@esm/index.mjs';
+import FLOAT32_MAX_SAFE_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-fibonacci@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT32_MAX_SAFE_FIBONACCI
@@ -76,7 +76,7 @@ var bool = ( FLOAT32_MAX_SAFE_FIBONACCI === 14930352 );
 <body>
 <script type="module">
 
-import FLOAT32_MAX_SAFE_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-fibonacci@esm/index.mjs';
+import FLOAT32_MAX_SAFE_FIBONACCI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-max-safe-fibonacci@v0.1.0-esm/index.mjs';
 
 var v;
 var i;
